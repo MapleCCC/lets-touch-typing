@@ -22,8 +22,8 @@ There are already plenty of websites out there providing user with detailed and 
 
 ### Terminologies
 
-- WPM. Word-per-minute. A ubiquitous measure unit of typing speed.
-- CPM. Character-per-minute. Another less popular measure unit.
+- `WPM`. Word-per-minute. A ubiquitous measure unit of typing speed.
+- `CPM`. Character-per-minute. Another less popular measure unit.
 - `QWERTY`. It refers to the ubiquitous keyboard layout world-widely used nowadays. Specified by the six letters on the top right of the keyboard layout.
 - `Dvorak`. The allegedly second most popular English keyboard layout.
 - `Colemak`. The allegedly third most popular English keyboard layout. It's variant `Colemak Mod DH` enjoys popularity.
@@ -69,7 +69,7 @@ text board 的内容不是无意义的 gibberish，而是在日常英语文本�
 
 更加丰富的设置选项。符合多样化人群的需求。
 
-不喜欢低效別手的 QWERTY 布局？没有关系，`Dvorak`, `Colemak`, `Workman`，应有尽有，满足小众打字爱好者饕餮胃口！
+不喜欢低效別手的 `QWERTY` 布局？没有关系，`Dvorak`, `Colemak`, `Workman`，应有尽有，满足小众打字爱好者饕餮胃口！
 
 ![屏幕快照 2019-02-18 下午10.34.04](assets/屏幕快照 2019-02-18 下午10.34.04.png)
 
