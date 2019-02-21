@@ -1,7 +1,7 @@
 
 # Let's Practice Touch Typing (in a smart way)
 
-> TL;DR: brief introduction to [KeyBr.com](keybr.com) - a well-famed typing practice website
+> TL;DR: brief introduction to [KeyBr.com](keybr.com) - a well-famed typing practice website. Written by [MapleCCC](https://mapleccc.github.io).
 
 ---
 
